@@ -1,11 +1,11 @@
 # GraphQL Federation Gateway
-[![Build](https://github.com/Ishad-M-I-M/graphql-federation-gateway/actions/workflows/pull_request.yml/badge.svg)](https://github.com/Ishad-M-I-M/graphql-federation-gateway/actions/workflows/pull_request.yml/badge.svg)
-[![codecov](https://codecov.io/gh/Ishad-M-I-M/graphql-federation-gateway/branch/main/graph/badge.svg?token=hLnziNmccQ)](https://codecov.io/gh/Ishad-M-I-M/graphql-federation-gateway)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Ishad-M-I-M/graphql-federation-gateway.svg)](https://github.com/Ishad-M-I-M/graphql-federation-gateway/commits/master)
-[![Github issues](https://img.shields.io/github/issues/Ishad-M-I-M/graphql-federation-gateway.svg?label=Open%20Issues)](https://github.com/Ishad-M-I-M/graphql-federation-gateway)
+[![Build](https://github.com/xlibb/graphql-federation-gateway/actions/workflows/pull_request.yml/badge.svg)](https://github.com/xlibb/graphql-federation-gateway/actions/workflows/build.yml/badge.svg)
+[![codecov](https://codecov.io/gh/xlibb/graphql-federation-gateway/branch/main/graph/badge.svg?token=hLnziNmccQ)](https://codecov.io/gh/xlibb/graphql-federation-gateway)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/xlibb/graphql-federation-gateway.svg)](https://github.com/xlibb/graphql-federation-gateway/commits/master)
+[![Github issues](https://img.shields.io/github/issues/xlibb/graphql-federation-gateway.svg?label=Open%20Issues)](https://github.com/xlibb/graphql-federation-gateway)
 
 A Graphql Federation Gateway implemented using Ballerina as the underline technology.
-This will generate a gateway executable for a given supergraph schema. 
+This will generate a gateway executable for a given supergraph schema.
 
 ## Using the Gateway
 
@@ -21,7 +21,7 @@ This will generate a gateway executable for a given supergraph schema.
 2. Download and install [Ballerina](https://ballerina.io/downloads/)
 
 ### Steps to use the gateway.
-1. Download [gateway.sh](https://github.com/Ishad-M-I-M/graphql-federation-gateway/releases/download/v0.1.0/gateway.sh)
+1. Download [gateway.sh](https://github.com/xlibb/graphql-federation-gateway/releases/download/v0.1.0/gateway.sh)
 
 2. To start the gateway run the following command in the terminal.
 

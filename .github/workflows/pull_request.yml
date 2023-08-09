@@ -1,9 +1,7 @@
-name: Build
+name: Pull Request Build
 
 on:
-  pull_request:
-  push:
-    branches: [main]
+  pull_request
 
 jobs:
   ubuntu-build:
